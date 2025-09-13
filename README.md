@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">AI Powered Meeting Summarizer</h1>
   <p align="center">
-    This project demonstrates how to build an AI-powered meeting summarizer using AWS services like Bedrock, Transcribe, Lambda, and S3. It automatically transcribes meeting audio and generates concise summaries with key discussion points, enabling teams to quickly catch up on missed meetings and reference important next steps.<br />
+    For this project, I built an AI-powered meeting summarizer using AWS services like Bedrock, Transcribe, Lambda, and S3. It automatically transcribes meeting audio and generates concise summaries with key discussion points, enabling teams to quickly catch up on missed meetings and reference important next steps.<br />
   </p>
 </p>
 
